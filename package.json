@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "concat-stream": "^2.0.0",
     "git-raw-commits": "^2.0.11"
   }
 }
